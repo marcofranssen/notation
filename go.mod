@@ -8,7 +8,7 @@ require (
 	github.com/notaryproject/notation-go-lib v0.7.0-alpha.1
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.2
-	github.com/oras-project/artifacts-spec v1.0.0-draft.1.1
+	github.com/oras-project/artifacts-spec v1.0.0-rc.1
 	github.com/urfave/cli/v2 v2.3.0
 	oras.land/oras-go/v2 v2.0.0-20220124135338-24c5637bde7b
 )
